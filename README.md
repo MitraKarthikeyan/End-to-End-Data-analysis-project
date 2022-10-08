@@ -20,7 +20,7 @@ My Project architecture answers the question:
     6. Pushing the data from database to Jupyter NoteBook for analysis.
     
  # Project Architecture:
- ![System design](https://raw.githubusercontent.com/GokulArumugam/End-to-End-Data-Analyst-Project/main/Documentation/proj_arc.png)
+ ![System design](https://github.com/MitraKarthikeyan/End-to-End-Data-analysis-project/blob/main/Documentation/proj_arc.jpg)
 
   From the collected data, I am tring to answer the question,
   
@@ -58,11 +58,11 @@ But the months of **November and December are when air pollution reaches its wor
   
 # Documentation:
 
-[High Level Documentation HLD](https://github.com/GokulArumugam/End-to-End-Data-Analyst-Project/blob/main/Documentation/High-Level%20Design.pdf)
+[High Level Documentation HLD](https://github.com/MitraKarthikeyan/End-to-End-Data-analysis-project/blob/main/Documentation/High-Level%20Design.pdf)
 
-[WireFrame](https://github.com/GokulArumugam/End-to-End-Data-Analyst-Project/blob/main/Documentation/WireFrame%20Air_Pollution.pdf)
+[WireFrame](https://github.com/MitraKarthikeyan/End-to-End-Data-analysis-project/blob/main/Documentation/WireFrame%20Air_Pollution.pdf)
   
-[Project Architecture](https://github.com/GokulArumugam/End-to-End-Data-Analyst-Project/blob/main/Documentation/Project%20Architecture.pdf)
+[Project Architecture](https://github.com/MitraKarthikeyan/End-to-End-Data-analysis-project/blob/main/Documentation/Project%20Architecture.pdf)
   
 # Feedback
 If you have any feedback, please reach out to me via [LinkedIn](https://www.linkedin.com/in/mitra-karthikeyan-6269a8185/)
