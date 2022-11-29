@@ -1,4 +1,4 @@
-# End to End Data-Analaysis-Project
+# End to End Data-Analaysis-Project.
 
 <p align="center">
 
